@@ -326,9 +326,9 @@ section .button button:hover{
   background: #4070f4;
   color: #fff;
   Background: url(Images/office.jpg);
-  width: cover;
+/*   width: cover;
   height: cover;
-  
+   */
 }
 .projects .boxes .box .icon{
   height: 50px;
